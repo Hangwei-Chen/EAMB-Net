@@ -1,5 +1,5 @@
 # EAMB-Net
-This is the official code for the EAMBNet(TIM2024).
+This is the official code for the EAMBNet (TIM2024).
 
 ## 📎 Paper Link
 - **Article title**: Image Aesthetics Assessment with Emotion-Aware Multi-Branch Network
@@ -13,7 +13,6 @@ This is the official code for the EAMBNet(TIM2024).
 
 ## 📁 Train
 We provide codes that support AVA and PARA datasets.
-- Please download the training databases.
 - Please download the pretrained emotion-aware model, and then load it in 'EAMBNet.py'
 - Please run 'main.py'.
 

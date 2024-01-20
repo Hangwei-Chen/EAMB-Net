@@ -15,14 +15,14 @@ The aesthetic and appreciation of an image is the innate human perceptual abilit
 
 ## 📁 Train
 We provide codes that support AVA and PARA datasets.
--1. Please download the training databases.
--2. Please download the pretrained emotion-aware model, and then load it in 'EAMBNet.py'
--3. Please run 'main.py'.
+- Please download the training databases.
+- Please download the pretrained emotion-aware model, and then load it in 'EAMBNet.py'
+- Please run 'main.py'.
 
 ## ⏬ Download
--1. You can download the AVA database at 
--2. You can download the PARA database at 
--3. You can download the pretrained emotion-aware model at [Baidu Cloud](). (password: ) 
+- You can download the AVA database at 
+- You can download the PARA database at 
+- You can download the pretrained emotion-aware model at [Baidu Cloud](). (password: ) 
 
 ## ✨ Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact 1010075746@qq.com or shaofeng@nbu.edu.cn

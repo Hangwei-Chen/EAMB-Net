@@ -13,13 +13,13 @@ This is the official code for the EAMBNet (TIM2024).
 
 ## 📁 Train
 We provide codes (ResNet50 version) that support AVA and PARA datasets.
-- Please download the pretrained emotion-aware model, and then load it in 'EAMBNet.py'
-- Please run 'main.py'.
+- 1. Please download the pretrained emotion-aware model, and then put it in 'pretrain_emotion_model' folder
+- 2. Please run 'main.py'.
 
 ## ⏬ Download
-- You can download the AVA database at 
-- You can download the PARA database at 
-- You can download the pretrained emotion-aware model at [Baidu Cloud](). (password: ) 
+- You can download the AVA database at here: [AVA].(https://github.com/imfing/ava_downloader)
+- You can download the PARA database at here: [PARA].(https://cv-datasets.institutecv.com/#/data-sets)
+- You can download the pretrained emotion-aware model at [Baidu Cloud](https://pan.baidu.com/s/1WK77tMsnYDg4Dpsh3ut87w). (password: EAMB) 
 
 ## ✨ Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact 1010075746@qq.com or shaofeng@nbu.edu.cn
@@ -27,7 +27,7 @@ This project is for research purpose only, please contact us for the licence of 
 ## 🔍 Citation
 If our datasets and criteria are helpful, please consider citing the following papers.
 ```
-@article{herethinking,
+@article{EAMBNet,
   title={Image Aesthetics Assessment with Emotion-Aware Multi-Branch Network},
   author={Hangwei chen, Feng Shao, Baoyang Mu, Qiuping Jinag},
   journal={IEEE TIM},

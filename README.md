@@ -12,7 +12,7 @@ This is the official code for the EAMBNet (TIM2024).
 - tqdm
 
 ## 📁 Train
-We provide codes that support AVA and PARA datasets.
+We provide codes (ResNet50 version) that support AVA and PARA datasets.
 - Please download the pretrained emotion-aware model, and then load it in 'EAMBNet.py'
 - Please run 'main.py'.
 
@@ -26,5 +26,13 @@ This project is for research purpose only, please contact us for the licence of 
 
 ## 🔍 Citation
 If our datasets and criteria are helpful, please consider citing the following papers.
-H. Chen et al., "Image Aesthetics Assessment with Emotion-Aware Multi-Branch Network" IEEE TIM, 2024
+```
+@article{herethinking,
+  title={Image Aesthetics Assessment with Emotion-Aware Multi-Branch Network},
+  author={Hangwei chen, Feng Shao, Baoyang Mu, Qiuping Jinag},
+  journal={IEEE TIM},
+  year={2024},
+}
+```
+
 

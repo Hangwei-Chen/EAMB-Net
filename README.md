@@ -17,8 +17,8 @@ We provide codes (ResNet50 version) that support AVA and PARA datasets.
 - 2. Please run 'main.py'.
 
 ## ⏬ Download
-- You can download the AVA database at here: [AVA].(https://github.com/imfing/ava_downloader)
-- You can download the PARA database at here: [PARA].(https://cv-datasets.institutecv.com/#/data-sets)
+- You can download the AVA database at here: [AVA](https://github.com/imfing/ava_downloader)
+- You can download the PARA database at here: [PARA](https://cv-datasets.institutecv.com/#/data-sets)
 - You can download the pretrained emotion-aware model at [Baidu Cloud](https://pan.baidu.com/s/1WK77tMsnYDg4Dpsh3ut87w). (password: EAMB) 
 
 ## ✨ Statement

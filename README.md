@@ -3,7 +3,7 @@ This is the official code for the EAMBNet (TIM2024).
 
 ## 📎 Paper Link
 - **Article title**: Image Aesthetics Assessment with Emotion-Aware Multi-Branch Network
-- **Authors**: Hangwei chen, Feng Shao, Baoyang Mu, Qiuping Jinag
+- **Authors**: Hangwei Chen, Feng Shao, Baoyang Mu, Qiuping Jinag
 - **Institution**: Faculty of Electrical Engineering and Computer Science, Ningbo University
 
 ## 📃 Dependencies
@@ -29,7 +29,7 @@ If our datasets and criteria are helpful, please consider citing the following p
 ```
 @article{EAMBNet,
   title={Image Aesthetics Assessment with Emotion-Aware Multi-Branch Network},
-  author={Hangwei chen, Feng Shao, Baoyang Mu, Qiuping Jinag},
+  author={Hangwei Chen, Feng Shao, Baoyang Mu, Qiuping Jinag},
   journal={IEEE TIM},
   year={2024},
 }

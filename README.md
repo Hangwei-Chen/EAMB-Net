@@ -2,7 +2,7 @@
 This is the official code for the EAMBNet (TIM2024).
 
 ## 📎 Paper Link
-- **Article title**: Image Aesthetics Assessment with Emotion-Aware Multi-Branch Network
+- **Article title**: Image Aesthetics Assessment with Emotion-Aware Multi-Branch Network. [Link](https://ieeexplore.ieee.org/document/10433197)
 - **Authors**: Hangwei Chen, Feng Shao, Baoyang Mu, Qiuping Jinag
 - **Institution**: Faculty of Electrical Engineering and Computer Science, Ningbo University
 
